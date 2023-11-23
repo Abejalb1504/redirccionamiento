@@ -4,7 +4,7 @@
 * Espacio en disco
 * Memoria libre del sistema
 * Usuarios conectados al sistema
----bash
+---
   df -h
   free
   who
