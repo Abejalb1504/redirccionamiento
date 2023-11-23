@@ -4,11 +4,12 @@
 * Espacio en disco
 * Memoria libre del sistema
 * Usuarios conectados al sistema
----
+```bash
+   date +%d-%m-%Y
    df -h
    free
    who
----
+```
 
 Subir:
 * Imagen ejecucion
