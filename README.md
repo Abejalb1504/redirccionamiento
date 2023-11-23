@@ -5,9 +5,9 @@
 * Memoria libre del sistema
 * Usuarios conectados al sistema
 ---
-  df -h
-  free
-  who
+   df -h
+   free
+   who
 ---
 
 Subir:
